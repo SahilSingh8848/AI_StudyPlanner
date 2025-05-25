@@ -2,6 +2,7 @@ Personalized  Study Planner Using Genrative AI
 This app generates a personalized study plan using AI. Based on the courses you provide, their deadlines, and your study preferences, it creates a smart schedule to help you stay organized and manage your time efficiently.
 
 🔍 How It Works:
+
 Add Your Courses and Deadlines: You can easily input your courses and their respective deadlines into the app.
 
 Set Your Study Preferences: Enter your study preferences, such as preferred study times, session lengths, or any other habits.
