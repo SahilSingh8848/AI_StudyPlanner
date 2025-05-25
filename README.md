@@ -1,4 +1,5 @@
-Personalized  Study Planner Using Genrative AI
+🎓 Personalized  Study Planner Using Genrative AI
+
 This app generates a personalized study plan using AI. Based on the courses you provide, their deadlines, and your study preferences, it creates a smart schedule to help you stay organized and manage your time efficiently.
 
 🔍 How It Works:
@@ -14,22 +15,20 @@ Interactive View: The plan is displayed in a user-friendly format, with a weekly
 
 🔧 How to Run
 
-Installation
-
 Clone the repository:
 git clone https://github.com/SahilSingh8848/AI_StudyPlanner.git
+
 cd AI_StudyPlanner
 
-Create a virtual environment (recommended):
-python -m venv venv
+Create a virtual environment (recommended): python -m venv venv
+
 source venv/bin/activate # On Windows: venv\Scripts\activate
 
 Install dependencies: pip install -r requirements.txt
 
 Set Up API Key: Create a secrets.toml file in the .streamlit folder with your Cohere API key:
-[cohere]
 
-api_key = "YOUR_COHERE_API_KEY" 
+[cohere] api_key = "YOUR_COHERE_API_KEY" 
 
 Run the App: streamlit run app.py
 
